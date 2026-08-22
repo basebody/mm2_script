@@ -619,26 +619,6 @@
         "isExp": true,
         "rawValue": 33
     },
-    "Elderwood Blade": {
-        "value": "37",
-        "range": "[N\/A]",
-        "pctClass": "val-mid",
-        "pct": 0.69837587006960555324752704109414480626583099365234375,
-        "stability": "Stable",
-        "demand": "1",
-        "rarity": "2",
-        "origin": "Halloween 2022 (Unboxed)",
-        "diff": "-2",
-        "pctChange": "-5.7%",
-        "aliases": "EWB, EW Blade",
-        "flippability": "Rarely Flippable",
-        "riseChance": "5",
-        "wikiLink": "Elderwood_Blade",
-        "imageKey": "mm2godlies\/Elderwood_Blade",
-        "class": "",
-        "isExp": true,
-        "rawValue": 37
-    },
     "Elderwood Revolver": {
         "value": "33",
         "range": "[N\/A]",
