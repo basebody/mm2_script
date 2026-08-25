@@ -1,24 +1,24 @@
 {
     "Godlys": {
         "Alienbeam": {
-            "value": "2,500",
-            "range": "2,500 - 2,750",
+            "value": "2,600",
+            "range": "2,600 - 2,700",
             "pctClass": "val-top",
-            "pct": 0.94199535962877034567242162665934301912784576416015625,
-            "stability": "Overpaid For",
+            "pct": 0.94431554524361949187749587508733384311199188232421875,
+            "stability": "Doing Well",
             "demand": "6",
             "rarity": "4",
             "origin": "Halloween 2025 (Unboxed)",
-            "diff": "+150",
-            "pctChange": "+6.4%",
+            "diff": "+100",
+            "pctChange": "+4.0%",
             "aliases": "AB, ALB",
-            "flippability": "Highly Flippable",
-            "riseChance": "75",
+            "flippability": "Flippable",
+            "riseChance": "35",
             "wikiLink": "Alienbeam",
             "imageKey": "mm2godlies\/Alienbeam",
             "class": "",
             "isExp": true,
-            "rawValue": 2500
+            "rawValue": 2600
         },
         "Amerilaser": {
             "value": "22",
@@ -161,16 +161,16 @@
             "rawValue": 825
         },
         "Beachy": {
-            "value": "120",
-            "range": "110 - 120",
+            "value": "110",
+            "range": "100 - 110",
             "pctClass": "val-mid",
-            "pct": 0.8143851508120649729249862502911128103733062744140625,
+            "pct": 0.80742459396751742328746104249148629605770111083984375,
             "stability": "Underpaid For",
             "demand": "2",
             "rarity": "3",
             "origin": "Summer 2026 (Item Pack)",
             "diff": "-10",
-            "pctChange": "-7.7%",
+            "pctChange": "-8.3%",
             "aliases": "N\/A",
             "flippability": "Rarely Flippable",
             "riseChance": "0",
@@ -178,7 +178,7 @@
             "imageKey": "mm2godlies\/Beachy",
             "class": "",
             "isExp": true,
-            "rawValue": 120
+            "rawValue": 110
         },
         "Bioblade": {
             "value": "8",
@@ -284,7 +284,7 @@
             "value": "1,370",
             "range": "[N\/A]",
             "pctClass": "val-top",
-            "pct": 0.90951276102088163266756737357354722917079925537109375,
+            "pct": 0.9164733178654291823050925813731737434864044189453125,
             "stability": "Stable",
             "demand": "6",
             "rarity": "4",
@@ -444,7 +444,7 @@
             "value": "2,700",
             "range": "[N\/A]",
             "pctClass": "val-top",
-            "pct": 0.94663573085846863808257012351532466709613800048828125,
+            "pct": 0.948955916473317895309946834458969533443450927734375,
             "stability": "Stable",
             "demand": "5",
             "rarity": "4",
@@ -741,24 +741,24 @@
             "rawValue": 13
         },
         "Evergreen": {
-            "value": "2,600",
-            "range": "[N\/A]",
+            "value": "2,650",
+            "range": "2,650 - 2,700",
             "pctClass": "val-top",
-            "pct": 0.94431554524361949187749587508733384311199188232421875,
-            "stability": "Stable",
-            "demand": "5",
+            "pct": 0.94663573085846863808257012351532466709613800048828125,
+            "stability": "Doing Well",
+            "demand": "6",
             "rarity": "4",
             "origin": "Christmas 2023 (Unboxed)",
             "diff": "+50",
-            "pctChange": "+2.0%",
+            "pctChange": "+1.9%",
             "aliases": "EGreen",
-            "flippability": "Rarely Flippable",
-            "riseChance": "10",
+            "flippability": "Flippable",
+            "riseChance": "40",
             "wikiLink": "Evergreen",
             "imageKey": "mm2godlies\/Evergreen",
             "class": "",
             "isExp": true,
-            "rawValue": 2600
+            "rawValue": 2650
         },
         "Evergun": {
             "value": "3,450",
@@ -1261,16 +1261,16 @@
             "rawValue": 33
         },
         "Icecream": {
-            "value": "110",
-            "range": "90 - 110",
+            "value": "105",
+            "range": "85 - 105",
             "pctClass": "val-mid",
             "pct": 0.8027842227378190198550100831198506057262420654296875,
             "stability": "Underpaid For",
             "demand": "2",
             "rarity": "3",
             "origin": "Summer 2026 (Unboxed)",
-            "diff": "-10",
-            "pctChange": "-8.3%",
+            "diff": "-5",
+            "pctChange": "-4.5%",
             "aliases": "IC",
             "flippability": "Rarely Flippable",
             "riseChance": "0",
@@ -1278,7 +1278,7 @@
             "imageKey": "mm2godlies\/Icecream",
             "class": "",
             "isExp": true,
-            "rawValue": 110
+            "rawValue": 105
         },
         "Iceflake": {
             "value": "15",
@@ -1361,16 +1361,16 @@
             "rawValue": 33
         },
         "Luger": {
-            "value": "32",
-            "range": "28 - 32",
+            "value": "30",
+            "range": "27 - 30",
             "pctClass": "val-mid",
-            "pct": 0.68213457076566130776740237706690095365047454833984375,
+            "pct": 0.668213457076566097470049498951993882656097412109375,
             "stability": "Underpaid For",
             "demand": "1",
             "rarity": "2",
             "origin": "Gun Box #1",
-            "diff": "-3",
-            "pctChange": "-8.6%",
+            "diff": "-2",
+            "pctChange": "-6.3%",
             "aliases": "Lug",
             "flippability": "Rarely Flippable",
             "riseChance": "0",
@@ -1378,7 +1378,7 @@
             "imageKey": "mm2godlies\/Luger",
             "class": "",
             "isExp": true,
-            "rawValue": 32
+            "rawValue": 30
         },
         "Lugercane": {
             "value": "13",
@@ -1561,16 +1561,16 @@
             "rawValue": 2
         },
         "Ornament": {
-            "value": "40",
-            "range": "40 - 50",
+            "value": "50",
+            "range": "50 - 60",
             "pctClass": "val-mid",
-            "pct": 0.73549883990719255866252979103592224419116973876953125,
+            "pct": 0.754060324825986061370031166006810963153839111328125,
             "stability": "Doing Well",
             "demand": "2",
             "rarity": "2",
             "origin": "Christmas 2025 (Gifting 100 Gifts)",
-            "diff": "+2",
-            "pctChange": "+5.3%",
+            "diff": "+10",
+            "pctChange": "+25.0%",
             "aliases": "Orn",
             "flippability": "Flippable",
             "riseChance": "25",
@@ -1578,7 +1578,7 @@
             "imageKey": "mm2godlies\/Ornament",
             "class": "",
             "isExp": true,
-            "rawValue": 40
+            "rawValue": 50
         },
         "Pearl": {
             "value": "80",
@@ -1821,24 +1821,24 @@
             "rawValue": 420
         },
         "Raygun": {
-            "value": "2,000",
-            "range": "2,000 - 2,100",
+            "value": "2,100",
+            "range": "2,100 - 2,150",
             "pctClass": "val-top",
-            "pct": 0.93039443155452439260244545948808081448078155517578125,
-            "stability": "Overpaid For",
+            "pct": 0.93271461716937353880751970791607163846492767333984375,
+            "stability": "Doing Well",
             "demand": "6",
             "rarity": "3",
             "origin": "Halloween 2025 (Tier 25)",
             "diff": "+100",
-            "pctChange": "+5.3%",
+            "pctChange": "+5.0%",
             "aliases": "RG, Ray",
-            "flippability": "Highly Flippable",
-            "riseChance": "55",
+            "flippability": "Flippable",
+            "riseChance": "30",
             "wikiLink": "Raygun",
             "imageKey": "mm2godlies\/Raygun",
             "class": "",
             "isExp": true,
-            "rawValue": 2000
+            "rawValue": 2100
         },
         "Red Luger": {
             "value": "37",
@@ -1884,7 +1884,7 @@
             "value": "1,360",
             "range": "[N\/A]",
             "pctClass": "val-top",
-            "pct": 0.90719257540603248646249312514555640518665313720703125,
+            "pct": 0.91415313225058003610001833294518291950225830078125,
             "stability": "Stable",
             "demand": "6",
             "rarity": "4",
@@ -1901,16 +1901,16 @@
             "rawValue": 1360
         },
         "Sands": {
-            "value": "120",
-            "range": "110 - 120",
+            "value": "110",
+            "range": "100 - 110",
             "pctClass": "val-mid",
-            "pct": 0.8143851508120649729249862502911128103733062744140625,
+            "pct": 0.80742459396751742328746104249148629605770111083984375,
             "stability": "Underpaid For",
             "demand": "2",
             "rarity": "3",
             "origin": "Summer 2026 (Item Pack)",
             "diff": "-10",
-            "pctChange": "-7.7%",
+            "pctChange": "-8.3%",
             "aliases": "N\/A",
             "flippability": "Rarely Flippable",
             "riseChance": "0",
@@ -1918,7 +1918,7 @@
             "imageKey": "mm2godlies\/Sands",
             "class": "",
             "isExp": true,
-            "rawValue": 120
+            "rawValue": 110
         },
         "Saw": {
             "value": "7",
@@ -2001,11 +2001,11 @@
             "rawValue": 15
         },
         "Snow Dagger": {
-            "value": "245",
-            "range": "[N\/A]",
+            "value": "240",
+            "range": "230 - 240",
             "pctClass": "val-mid",
             "pct": 0.8491879350348028321349147518048994243144989013671875,
-            "stability": "Stable",
+            "stability": "Underpaid For",
             "demand": "3",
             "rarity": "3",
             "origin": "Christmas 2025 (Unboxed)",
@@ -2013,12 +2013,12 @@
             "pctChange": "-2.0%",
             "aliases": "Dagger",
             "flippability": "Rarely Flippable",
-            "riseChance": "10",
+            "riseChance": "0",
             "wikiLink": "Snow_Dagger",
             "imageKey": "mm2godlies\/Snow_Dagger",
             "class": "",
             "isExp": true,
-            "rawValue": 245
+            "rawValue": 240
         },
         "Snowcannon": {
             "value": "850",
@@ -2181,44 +2181,44 @@
             "rawValue": 32
         },
         "Sunrise": {
-            "value": "1,125",
-            "range": "[N\/A]",
+            "value": "1,150",
+            "range": "1,150 - 1,175",
             "pctClass": "val-top",
             "pct": 0.90487238979118334025741887671756558120250701904296875,
-            "stability": "Stable",
-            "demand": "5",
+            "stability": "Doing Well",
+            "demand": "6",
             "rarity": "4",
             "origin": "Summer 2025 (Unboxed)",
             "diff": "+25",
-            "pctChange": "+2.3%",
+            "pctChange": "+2.2%",
             "aliases": "SR",
-            "flippability": "Rarely Flippable",
-            "riseChance": "10",
+            "flippability": "Flippable",
+            "riseChance": "40",
             "wikiLink": "Sunrise",
             "imageKey": "mm2godlies\/Sunrise",
             "class": "",
             "isExp": true,
-            "rawValue": 1125
+            "rawValue": 1150
         },
         "Sunset": {
-            "value": "625",
-            "range": "[N\/A]",
+            "value": "650",
+            "range": "650 - 675",
             "pctClass": "val-top",
             "pct": 0.89559164733178653339251695797429420053958892822265625,
-            "stability": "Stable",
+            "stability": "Doing Well",
             "demand": "5",
             "rarity": "3",
             "origin": "Summer 2025 (Tier 25)",
             "diff": "+25",
-            "pctChange": "+4.2%",
+            "pctChange": "+4.0%",
             "aliases": "N\/A",
-            "flippability": "Rarely Flippable",
-            "riseChance": "10",
+            "flippability": "Flippable",
+            "riseChance": "40",
             "wikiLink": "Sunset_(Knife)",
             "imageKey": "mm2godlies\/Sunset",
             "class": "",
             "isExp": true,
-            "rawValue": 625
+            "rawValue": 650
         },
         "Sweet": {
             "value": "150",
@@ -2304,7 +2304,7 @@
             "value": "5,600",
             "range": "[N\/A]",
             "pctClass": "val-top",
-            "pct": 0.96055684454756384837992300163023173809051513671875,
+            "pct": 0.9628770301624129945849972500582225620746612548828125,
             "stability": "Stable",
             "demand": "5",
             "rarity": "5",
@@ -2421,11 +2421,11 @@
             "rawValue": 13
         },
         "Watergun": {
-            "value": "245",
-            "range": "[N\/A]",
+            "value": "240",
+            "range": "230 - 240",
             "pctClass": "val-mid",
             "pct": 0.8491879350348028321349147518048994243144989013671875,
-            "stability": "Stable",
+            "stability": "Underpaid For",
             "demand": "3",
             "rarity": "3",
             "origin": "Summer 2024 (Unboxed)",
@@ -2433,12 +2433,12 @@
             "pctChange": "-2.0%",
             "aliases": "WTG",
             "flippability": "Rarely Flippable",
-            "riseChance": "5",
+            "riseChance": "0",
             "wikiLink": "Watergun",
             "imageKey": "mm2godlies\/Watergun",
             "class": "",
             "isExp": true,
-            "rawValue": 245
+            "rawValue": 240
         },
         "Waves": {
             "value": "280",
@@ -2481,16 +2481,16 @@
             "rawValue": 5
         },
         "Xenoknife": {
-            "value": "300",
-            "range": "300 - 310",
+            "value": "310",
+            "range": "310 - 325",
             "pctClass": "val-top",
             "pct": 0.87006960556844548104749037520377896726131439208984375,
             "stability": "Doing Well",
             "demand": "5",
             "rarity": "3",
             "origin": "Halloween 2025 (Item Pack)",
-            "diff": "+5",
-            "pctChange": "+1.7%",
+            "diff": "+10",
+            "pctChange": "+3.3%",
             "aliases": "N\/A",
             "flippability": "Flippable",
             "riseChance": "40",
@@ -2498,19 +2498,19 @@
             "imageKey": "mm2godlies\/Xenoknife",
             "class": "",
             "isExp": true,
-            "rawValue": 300
+            "rawValue": 310
         },
         "Xenoshot": {
-            "value": "300",
-            "range": "300 - 310",
+            "value": "310",
+            "range": "310 - 325",
             "pctClass": "val-top",
             "pct": 0.87006960556844548104749037520377896726131439208984375,
             "stability": "Doing Well",
             "demand": "5",
             "rarity": "3",
             "origin": "Halloween 2025 (Item Pack)",
-            "diff": "+5",
-            "pctChange": "+1.7%",
+            "diff": "+10",
+            "pctChange": "+3.3%",
             "aliases": "N\/A",
             "flippability": "Flippable",
             "riseChance": "40",
@@ -2518,7 +2518,7 @@
             "imageKey": "mm2godlies\/Xenoshot",
             "class": "",
             "isExp": true,
-            "rawValue": 300
+            "rawValue": 310
         },
         "Xmas": {
             "value": "7",
@@ -2566,7 +2566,7 @@
             "value": "42",
             "range": "[N\/A]",
             "pctClass": "val-mid",
-            "pct": 0.737819025522041815889906501979567110538482666015625,
+            "pct": 0.73549883990719255866252979103592224419116973876953125,
             "stability": "Stable",
             "demand": "1",
             "rarity": "2",
@@ -2646,7 +2646,7 @@
             "value": "30",
             "range": "[N\/A]",
             "pctClass": "val-mid",
-            "pct": 0.6658932714617169512649752505240030586719512939453125,
+            "pct": 0.668213457076566097470049498951993882656097412109375,
             "stability": "Stable",
             "demand": "1",
             "rarity": "2",
@@ -2803,8 +2803,8 @@
             "rawValue": 8100
         },
         "Vampire\u0027s Axe": {
-            "value": "1,450",
-            "range": "1,450 - 1,550",
+            "value": "1,500",
+            "range": "1,500 - 1,600",
             "pctClass": "val-top",
             "pct": 0.91879350348027843953246929231681860983371734619140625,
             "stability": "Overpaid For",
@@ -2812,15 +2812,15 @@
             "rarity": "4",
             "origin": "Halloween 2024 (Tier 20)",
             "diff": "+50",
-            "pctChange": "+3.6%",
+            "pctChange": "+3.4%",
             "aliases": "Vamp Axe, VA",
             "flippability": "Highly Flippable",
-            "riseChance": "70",
+            "riseChance": "60",
             "wikiLink": "Vampire%27s_Axe",
             "imageKey": "mm2ancients\/Vampires_Axe",
             "class": "",
             "isExp": true,
-            "rawValue": 1450
+            "rawValue": 1500
         }
     },
     "Vintages": {
@@ -16174,7 +16174,7 @@
         }
     },
     "Chromas": {
-        "Alienbeam": {
+        "Chroma Alienbeam": {
             "value": "24,000",
             "range": "[N\/A]",
             "pctClass": "val-top",
@@ -16194,7 +16194,7 @@
             "isExp": true,
             "rawValue": 24000
         },
-        "Bauble": {
+        "Chroma Bauble": {
             "value": "34,000",
             "range": "[N\/A]",
             "pctClass": "val-top",
@@ -16214,17 +16214,17 @@
             "isExp": true,
             "rawValue": 34000
         },
-        "Beachy": {
-            "value": "1,400",
-            "range": "1,250 - 1,400",
+        "Chroma Beachy": {
+            "value": "1,250",
+            "range": "1,100 - 1,250",
             "pctClass": "val-top",
-            "pct": 0.9118329466357308898949440845171920955181121826171875,
+            "pct": 0.90951276102088163266756737357354722917079925537109375,
             "stability": "Underpaid For",
             "demand": "5",
             "rarity": "4",
             "origin": "Summer 2026 (Item Pack)",
-            "diff": "-50",
-            "pctChange": "-3.4%",
+            "diff": "-150",
+            "pctChange": "-10.7%",
             "aliases": "CBeachy, CBeach",
             "flippability": "Rarely Flippable",
             "riseChance": "0",
@@ -16232,19 +16232,19 @@
             "imageKey": "mm2chromas\/CBeachy",
             "class": "",
             "isExp": true,
-            "rawValue": 1400
+            "rawValue": 1250
         },
-        "Blizzard": {
-            "value": "6,000",
-            "range": "5,500 - 6,000",
+        "Chroma Blizzard": {
+            "value": "5,500",
+            "range": "5,000 - 5,500",
             "pctClass": "val-top",
-            "pct": 0.9628770301624129945849972500582225620746612548828125,
+            "pct": 0.96055684454756384837992300163023173809051513671875,
             "stability": "Underpaid For",
             "demand": "5",
             "rarity": "5",
             "origin": "Christmas 2025 (Item Pack)",
             "diff": "-500",
-            "pctChange": "-7.7%",
+            "pctChange": "-8.3%",
             "aliases": "CBlizz",
             "flippability": "Rarely Flippable",
             "riseChance": "0",
@@ -16252,9 +16252,9 @@
             "imageKey": "mm2chromas\/CBZ",
             "class": "",
             "isExp": true,
-            "rawValue": 6000
+            "rawValue": 5500
         },
-        "Boneblade": {
+        "Chroma Boneblade": {
             "value": "22",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -16274,11 +16274,11 @@
             "isExp": true,
             "rawValue": 22
         },
-        "Candleflame": {
+        "Chroma Candleflame": {
             "value": "40",
             "range": "[N\/A]",
             "pctClass": "val-mid",
-            "pct": 0.73549883990719255866252979103592224419116973876953125,
+            "pct": 0.73317865429234341245745554260793142020702362060546875,
             "stability": "Stable",
             "demand": "1",
             "rarity": "2",
@@ -16294,27 +16294,27 @@
             "isExp": true,
             "rawValue": 40
         },
-        "Constellation": {
-            "value": "28,000",
-            "range": "28,000 - 29,000",
+        "Chroma Constellation": {
+            "value": "29,000",
+            "range": "29,000 - 30,000",
             "pctClass": "val-top",
-            "pct": 0.98143851508120649729249862502911128103733062744140625,
+            "pct": 0.98375870069605564349757287345710210502147674560546875,
             "stability": "Doing Well",
             "demand": "7",
             "rarity": "6",
             "origin": "Christmas 2024 (Unboxed)",
-            "diff": "+500",
-            "pctChange": "+1.8%",
+            "diff": "+1,000",
+            "pctChange": "+3.6%",
             "aliases": "CConst",
             "flippability": "Flippable",
-            "riseChance": "40",
+            "riseChance": "45",
             "wikiLink": "Chroma_Constellation",
             "imageKey": "mm2chromas\/CConst",
             "class": "",
             "isExp": true,
-            "rawValue": 28000
+            "rawValue": 29000
         },
-        "Cookiecane": {
+        "Chroma Cookiecane": {
             "value": "32",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -16334,7 +16334,7 @@
             "isExp": true,
             "rawValue": 32
         },
-        "Darkbringer": {
+        "Chroma Darkbringer": {
             "value": "65",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -16354,7 +16354,7 @@
             "isExp": true,
             "rawValue": 65
         },
-        "Deathshard": {
+        "Chroma Deathshard": {
             "value": "35",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -16374,7 +16374,7 @@
             "isExp": true,
             "rawValue": 35
         },
-        "Elderwood Blade": {
+        "Chroma Elderwood Blade": {
             "value": "37",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -16394,7 +16394,7 @@
             "isExp": true,
             "rawValue": 37
         },
-        "Evergreen": {
+        "Chroma Evergreen": {
             "value": "48,000",
             "range": "[N\/A]",
             "pctClass": "val-top",
@@ -16414,7 +16414,7 @@
             "isExp": true,
             "rawValue": 48000
         },
-        "Evergun": {
+        "Chroma Evergun": {
             "value": "75,000",
             "range": "[N\/A]",
             "pctClass": "val-top",
@@ -16434,7 +16434,7 @@
             "isExp": true,
             "rawValue": 75000
         },
-        "Fang": {
+        "Chroma Fang": {
             "value": "32",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -16454,7 +16454,7 @@
             "isExp": true,
             "rawValue": 32
         },
-        "Fire Bat": {
+        "Chroma Fire Bat": {
             "value": "3",
             "range": "2 - 3",
             "pctClass": "val-low",
@@ -16474,7 +16474,7 @@
             "isExp": true,
             "rawValue": 3
         },
-        "Fire Bear": {
+        "Chroma Fire Bear": {
             "value": "3",
             "range": "2 - 3",
             "pctClass": "val-low",
@@ -16494,7 +16494,7 @@
             "isExp": true,
             "rawValue": 3
         },
-        "Fire Bunny": {
+        "Chroma Fire Bunny": {
             "value": "3",
             "range": "2 - 3",
             "pctClass": "val-low",
@@ -16514,7 +16514,7 @@
             "isExp": true,
             "rawValue": 3
         },
-        "Fire Cat": {
+        "Chroma Fire Cat": {
             "value": "3",
             "range": "2 - 3",
             "pctClass": "val-low",
@@ -16534,7 +16534,7 @@
             "isExp": true,
             "rawValue": 3
         },
-        "Fire Dog": {
+        "Chroma Fire Dog": {
             "value": "3",
             "range": "2 - 3",
             "pctClass": "val-low",
@@ -16554,7 +16554,7 @@
             "isExp": true,
             "rawValue": 3
         },
-        "Fire Fox": {
+        "Chroma Fire Fox": {
             "value": "3",
             "range": "2 - 3",
             "pctClass": "val-low",
@@ -16574,7 +16574,7 @@
             "isExp": true,
             "rawValue": 3
         },
-        "Fire Pig": {
+        "Chroma Fire Pig": {
             "value": "3",
             "range": "2 - 3",
             "pctClass": "val-low",
@@ -16594,7 +16594,7 @@
             "isExp": true,
             "rawValue": 3
         },
-        "Gemstone": {
+        "Chroma Gemstone": {
             "value": "32",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -16614,7 +16614,7 @@
             "isExp": true,
             "rawValue": 32
         },
-        "Gingerblade": {
+        "Chroma Gingerblade": {
             "value": "27",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -16634,7 +16634,7 @@
             "isExp": true,
             "rawValue": 27
         },
-        "Heart Wand": {
+        "Chroma Heart Wand": {
             "value": "4,250",
             "range": "[N\/A]",
             "pctClass": "val-top",
@@ -16645,7 +16645,7 @@
             "origin": "Valentine\u0027s 2026 (Unboxed)",
             "diff": "-250",
             "pctChange": "-5.6%",
-            "aliases": "Wand, CHeart, CWand, CHW",
+            "aliases": "Chroma Wand, CHeart, CWand, CHW",
             "flippability": "Rarely Flippable",
             "riseChance": "10",
             "wikiLink": "Chroma_Heart_Wand",
@@ -16654,7 +16654,7 @@
             "isExp": true,
             "rawValue": 4250
         },
-        "Heat": {
+        "Chroma Heat": {
             "value": "28",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -16674,17 +16674,17 @@
             "isExp": true,
             "rawValue": 28
         },
-        "Icecream": {
-            "value": "1,450",
-            "range": "1,300 - 1,450",
+        "Chroma Icecream": {
+            "value": "1,250",
+            "range": "1,100 - 1,250",
             "pctClass": "val-top",
-            "pct": 0.91879350348027843953246929231681860983371734619140625,
+            "pct": 0.90951276102088163266756737357354722917079925537109375,
             "stability": "Underpaid For",
             "demand": "5",
             "rarity": "4",
             "origin": "Summer 2026 (Unboxed)",
-            "diff": "-150",
-            "pctChange": "-9.4%",
+            "diff": "-200",
+            "pctChange": "-13.8%",
             "aliases": "CIC, CCream, CIcecream",
             "flippability": "Rarely Flippable",
             "riseChance": "0",
@@ -16692,13 +16692,13 @@
             "imageKey": "mm2chromas\/CIcecream",
             "class": "",
             "isExp": true,
-            "rawValue": 1450
+            "rawValue": 1250
         },
-        "Laser": {
+        "Chroma Laser": {
             "value": "40",
             "range": "[N\/A]",
             "pctClass": "val-mid",
-            "pct": 0.73549883990719255866252979103592224419116973876953125,
+            "pct": 0.73317865429234341245745554260793142020702362060546875,
             "stability": "Stable",
             "demand": "1",
             "rarity": "2",
@@ -16714,7 +16714,7 @@
             "isExp": true,
             "rawValue": 40
         },
-        "Lightbringer": {
+        "Chroma Lightbringer": {
             "value": "60",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -16734,7 +16734,7 @@
             "isExp": true,
             "rawValue": 60
         },
-        "Luger": {
+        "Chroma Luger": {
             "value": "50",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -16754,7 +16754,7 @@
             "isExp": true,
             "rawValue": 50
         },
-        "Ornament": {
+        "Chroma Ornament": {
             "value": "1,800",
             "range": "[N\/A]",
             "pctClass": "val-top",
@@ -16774,7 +16774,7 @@
             "isExp": true,
             "rawValue": 1800
         },
-        "Raygun": {
+        "Chroma Raygun": {
             "value": "14,000",
             "range": "[N\/A]",
             "pctClass": "val-top",
@@ -16794,17 +16794,17 @@
             "isExp": true,
             "rawValue": 14000
         },
-        "Sands": {
-            "value": "1,450",
-            "range": "1,300 - 1,450",
+        "Chroma Sands": {
+            "value": "1,300",
+            "range": "1,150 - 1,300",
             "pctClass": "val-top",
-            "pct": 0.91879350348027843953246929231681860983371734619140625,
+            "pct": 0.9118329466357308898949440845171920955181121826171875,
             "stability": "Underpaid For",
             "demand": "5",
             "rarity": "4",
             "origin": "Summer 2026 (Item Pack)",
-            "diff": "-100",
-            "pctChange": "-6.5%",
+            "diff": "-150",
+            "pctChange": "-10.3%",
             "aliases": "CSands, CSand",
             "flippability": "Rarely Flippable",
             "riseChance": "0",
@@ -16812,9 +16812,9 @@
             "imageKey": "mm2chromas\/CSands",
             "class": "",
             "isExp": true,
-            "rawValue": 1450
+            "rawValue": 1300
         },
-        "Saw": {
+        "Chroma Saw": {
             "value": "23",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -16834,7 +16834,7 @@
             "isExp": true,
             "rawValue": 23
         },
-        "Seer": {
+        "Chroma Seer": {
             "value": "28",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -16854,7 +16854,7 @@
             "isExp": true,
             "rawValue": 28
         },
-        "Shark": {
+        "Chroma Shark": {
             "value": "32",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -16874,7 +16874,7 @@
             "isExp": true,
             "rawValue": 32
         },
-        "Slasher": {
+        "Chroma Slasher": {
             "value": "32",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -16894,17 +16894,17 @@
             "isExp": true,
             "rawValue": 32
         },
-        "Snow Dagger": {
-            "value": "2,750",
+        "Chroma Snow Dagger": {
+            "value": "2,500",
             "range": "[N\/A]",
             "pctClass": "val-top",
-            "pct": 0.948955916473317895309946834458969533443450927734375,
+            "pct": 0.94199535962877034567242162665934301912784576416015625,
             "stability": "Stable",
             "demand": "5",
             "rarity": "4",
             "origin": "Christmas 2025 (Unboxed)",
             "diff": "-250",
-            "pctChange": "-8.3%",
+            "pctChange": "-9.1%",
             "aliases": "CDagger, CDag",
             "flippability": "Rarely Flippable",
             "riseChance": "5",
@@ -16912,9 +16912,9 @@
             "imageKey": "mm2chromas\/CDagger",
             "class": "",
             "isExp": true,
-            "rawValue": 2750
+            "rawValue": 2500
         },
-        "Snowcannon": {
+        "Chroma Snowcannon": {
             "value": "7,750",
             "range": "[N\/A]",
             "pctClass": "val-top",
@@ -16934,7 +16934,7 @@
             "isExp": true,
             "rawValue": 7750
         },
-        "Snowstorm": {
+        "Chroma Snowstorm": {
             "value": "4,250",
             "range": "[N\/A]",
             "pctClass": "val-top",
@@ -16954,7 +16954,7 @@
             "isExp": true,
             "rawValue": 4250
         },
-        "Sunrise": {
+        "Chroma Sunrise": {
             "value": "13,250",
             "range": "[N\/A]",
             "pctClass": "val-top",
@@ -16974,17 +16974,17 @@
             "isExp": true,
             "rawValue": 13250
         },
-        "Sunset": {
-            "value": "9,250",
+        "Chroma Sunset": {
+            "value": "9,000",
             "range": "[N\/A]",
             "pctClass": "val-top",
             "pct": 0.96983758700696054422252245785784907639026641845703125,
             "stability": "Stable",
-            "demand": "6",
+            "demand": "5",
             "rarity": "5",
             "origin": "Summer 2025 (Tier 25)",
-            "diff": "+250",
-            "pctChange": "+2.8%",
+            "diff": "-250",
+            "pctChange": "-2.7%",
             "aliases": "CSunset, CSS",
             "flippability": "Rarely Flippable",
             "riseChance": "10",
@@ -16992,13 +16992,13 @@
             "imageKey": "mm2chromas\/CSS",
             "class": "",
             "isExp": true,
-            "rawValue": 9250
+            "rawValue": 9000
         },
-        "Sweet": {
-            "value": "2,050",
+        "Chroma Sweet": {
+            "value": "2,000",
             "range": "[N\/A]",
             "pctClass": "val-top",
-            "pct": 0.93271461716937353880751970791607163846492767333984375,
+            "pct": 0.93039443155452439260244545948808081448078155517578125,
             "stability": "Stable",
             "demand": "5",
             "rarity": "4",
@@ -17012,9 +17012,9 @@
             "imageKey": "mm2chromas\/CSweet",
             "class": "",
             "isExp": true,
-            "rawValue": 2050
+            "rawValue": 2000
         },
-        "Swirly Gun": {
+        "Chroma Swirly Gun": {
             "value": "38",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -17034,7 +17034,7 @@
             "isExp": true,
             "rawValue": 38
         },
-        "Tides": {
+        "Chroma Tides": {
             "value": "27",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -17054,7 +17054,7 @@
             "isExp": true,
             "rawValue": 27
         },
-        "Traveler\u0027s Gun": {
+        "Chroma Traveler\u0027s Gun": {
             "value": "220,000",
             "range": "[N\/A]",
             "pctClass": "val-top",
@@ -17074,9 +17074,9 @@
             "isExp": true,
             "rawValue": 220000
         },
-        "Treat": {
-            "value": "2,200",
-            "range": "2,150 - 2,200",
+        "Chroma Treat": {
+            "value": "2,150",
+            "range": "2,100 - 2,150",
             "pctClass": "val-top",
             "pct": 0.93503480278422268501259395634406246244907379150390625,
             "stability": "Receding",
@@ -17084,7 +17084,7 @@
             "rarity": "4",
             "origin": "Valentine\u0027s 2026 (Item Pack)",
             "diff": "-50",
-            "pctChange": "-2.2%",
+            "pctChange": "-2.3%",
             "aliases": "CTreat",
             "flippability": "Rarely Flippable",
             "riseChance": "0",
@@ -17092,9 +17092,9 @@
             "imageKey": "mm2chromas\/CTreat",
             "class": "",
             "isExp": true,
-            "rawValue": 2200
+            "rawValue": 2150
         },
-        "Vampire\u0027s Gun": {
+        "Chroma Vampire\u0027s Gun": {
             "value": "29,000",
             "range": "[N\/A]",
             "pctClass": "val-top",
@@ -17114,7 +17114,7 @@
             "isExp": true,
             "rawValue": 29000
         },
-        "Watergun": {
+        "Chroma Watergun": {
             "value": "3,400",
             "range": "[N\/A]",
             "pctClass": "val-top",
