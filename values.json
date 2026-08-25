@@ -16174,7 +16174,7 @@
         }
     },
     "Chromas": {
-        "Chroma Alienbeam": {
+        "Alienbeam": {
             "value": "24,000",
             "range": "[N\/A]",
             "pctClass": "val-top",
@@ -16194,7 +16194,7 @@
             "isExp": true,
             "rawValue": 24000
         },
-        "Chroma Bauble": {
+        "Bauble": {
             "value": "34,000",
             "range": "[N\/A]",
             "pctClass": "val-top",
@@ -16214,7 +16214,7 @@
             "isExp": true,
             "rawValue": 34000
         },
-        "Chroma Beachy": {
+        "Beachy": {
             "value": "1,250",
             "range": "1,100 - 1,250",
             "pctClass": "val-top",
@@ -16234,7 +16234,7 @@
             "isExp": true,
             "rawValue": 1250
         },
-        "Chroma Blizzard": {
+        "Blizzard": {
             "value": "5,500",
             "range": "5,000 - 5,500",
             "pctClass": "val-top",
@@ -16254,7 +16254,7 @@
             "isExp": true,
             "rawValue": 5500
         },
-        "Chroma Boneblade": {
+        "Boneblade": {
             "value": "22",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -16274,7 +16274,7 @@
             "isExp": true,
             "rawValue": 22
         },
-        "Chroma Candleflame": {
+        "Candleflame": {
             "value": "40",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -16294,7 +16294,7 @@
             "isExp": true,
             "rawValue": 40
         },
-        "Chroma Constellation": {
+        "Constellation": {
             "value": "29,000",
             "range": "29,000 - 30,000",
             "pctClass": "val-top",
@@ -16314,7 +16314,7 @@
             "isExp": true,
             "rawValue": 29000
         },
-        "Chroma Cookiecane": {
+        "Cookiecane": {
             "value": "32",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -16334,7 +16334,7 @@
             "isExp": true,
             "rawValue": 32
         },
-        "Chroma Darkbringer": {
+        "Darkbringer": {
             "value": "65",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -16354,7 +16354,7 @@
             "isExp": true,
             "rawValue": 65
         },
-        "Chroma Deathshard": {
+        "Deathshard": {
             "value": "35",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -16374,7 +16374,7 @@
             "isExp": true,
             "rawValue": 35
         },
-        "Chroma Elderwood Blade": {
+        "Elderwood Blade": {
             "value": "37",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -16394,7 +16394,7 @@
             "isExp": true,
             "rawValue": 37
         },
-        "Chroma Evergreen": {
+        "Evergreen": {
             "value": "48,000",
             "range": "[N\/A]",
             "pctClass": "val-top",
@@ -16414,7 +16414,7 @@
             "isExp": true,
             "rawValue": 48000
         },
-        "Chroma Evergun": {
+        "Evergun": {
             "value": "75,000",
             "range": "[N\/A]",
             "pctClass": "val-top",
@@ -16434,7 +16434,7 @@
             "isExp": true,
             "rawValue": 75000
         },
-        "Chroma Fang": {
+        "Fang": {
             "value": "32",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -16454,7 +16454,7 @@
             "isExp": true,
             "rawValue": 32
         },
-        "Chroma Fire Bat": {
+        "Fire Bat": {
             "value": "3",
             "range": "2 - 3",
             "pctClass": "val-low",
@@ -16474,7 +16474,7 @@
             "isExp": true,
             "rawValue": 3
         },
-        "Chroma Fire Bear": {
+        "Fire Bear": {
             "value": "3",
             "range": "2 - 3",
             "pctClass": "val-low",
@@ -16494,7 +16494,7 @@
             "isExp": true,
             "rawValue": 3
         },
-        "Chroma Fire Bunny": {
+        "Fire Bunny": {
             "value": "3",
             "range": "2 - 3",
             "pctClass": "val-low",
@@ -16514,7 +16514,7 @@
             "isExp": true,
             "rawValue": 3
         },
-        "Chroma Fire Cat": {
+        "Fire Cat": {
             "value": "3",
             "range": "2 - 3",
             "pctClass": "val-low",
@@ -16534,7 +16534,7 @@
             "isExp": true,
             "rawValue": 3
         },
-        "Chroma Fire Dog": {
+        "Fire Dog": {
             "value": "3",
             "range": "2 - 3",
             "pctClass": "val-low",
@@ -16554,7 +16554,7 @@
             "isExp": true,
             "rawValue": 3
         },
-        "Chroma Fire Fox": {
+        "Fire Fox": {
             "value": "3",
             "range": "2 - 3",
             "pctClass": "val-low",
@@ -16574,7 +16574,7 @@
             "isExp": true,
             "rawValue": 3
         },
-        "Chroma Fire Pig": {
+        "Fire Pig": {
             "value": "3",
             "range": "2 - 3",
             "pctClass": "val-low",
@@ -16594,7 +16594,7 @@
             "isExp": true,
             "rawValue": 3
         },
-        "Chroma Gemstone": {
+        "Gemstone": {
             "value": "32",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -16614,7 +16614,7 @@
             "isExp": true,
             "rawValue": 32
         },
-        "Chroma Gingerblade": {
+        "Gingerblade": {
             "value": "27",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -16634,7 +16634,7 @@
             "isExp": true,
             "rawValue": 27
         },
-        "Chroma Heart Wand": {
+        "Heart Wand": {
             "value": "4,250",
             "range": "[N\/A]",
             "pctClass": "val-top",
@@ -16645,7 +16645,7 @@
             "origin": "Valentine\u0027s 2026 (Unboxed)",
             "diff": "-250",
             "pctChange": "-5.6%",
-            "aliases": "Chroma Wand, CHeart, CWand, CHW",
+            "aliases": "Wand, CHeart, CWand, CHW",
             "flippability": "Rarely Flippable",
             "riseChance": "10",
             "wikiLink": "Chroma_Heart_Wand",
@@ -16654,7 +16654,7 @@
             "isExp": true,
             "rawValue": 4250
         },
-        "Chroma Heat": {
+        "Heat": {
             "value": "28",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -16674,7 +16674,7 @@
             "isExp": true,
             "rawValue": 28
         },
-        "Chroma Icecream": {
+        "Icecream": {
             "value": "1,250",
             "range": "1,100 - 1,250",
             "pctClass": "val-top",
@@ -16694,7 +16694,7 @@
             "isExp": true,
             "rawValue": 1250
         },
-        "Chroma Laser": {
+        "Laser": {
             "value": "40",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -16714,7 +16714,7 @@
             "isExp": true,
             "rawValue": 40
         },
-        "Chroma Lightbringer": {
+        "Lightbringer": {
             "value": "60",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -16734,7 +16734,7 @@
             "isExp": true,
             "rawValue": 60
         },
-        "Chroma Luger": {
+        "Luger": {
             "value": "50",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -16754,7 +16754,7 @@
             "isExp": true,
             "rawValue": 50
         },
-        "Chroma Ornament": {
+        "Ornament": {
             "value": "1,800",
             "range": "[N\/A]",
             "pctClass": "val-top",
@@ -16774,7 +16774,7 @@
             "isExp": true,
             "rawValue": 1800
         },
-        "Chroma Raygun": {
+        "Raygun": {
             "value": "14,000",
             "range": "[N\/A]",
             "pctClass": "val-top",
@@ -16794,7 +16794,7 @@
             "isExp": true,
             "rawValue": 14000
         },
-        "Chroma Sands": {
+        "Sands": {
             "value": "1,300",
             "range": "1,150 - 1,300",
             "pctClass": "val-top",
@@ -16814,7 +16814,7 @@
             "isExp": true,
             "rawValue": 1300
         },
-        "Chroma Saw": {
+        "Saw": {
             "value": "23",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -16834,7 +16834,7 @@
             "isExp": true,
             "rawValue": 23
         },
-        "Chroma Seer": {
+        "Seer": {
             "value": "28",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -16854,7 +16854,7 @@
             "isExp": true,
             "rawValue": 28
         },
-        "Chroma Shark": {
+        "Shark": {
             "value": "32",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -16874,7 +16874,7 @@
             "isExp": true,
             "rawValue": 32
         },
-        "Chroma Slasher": {
+        "Slasher": {
             "value": "32",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -16894,7 +16894,7 @@
             "isExp": true,
             "rawValue": 32
         },
-        "Chroma Snow Dagger": {
+        "Snow Dagger": {
             "value": "2,500",
             "range": "[N\/A]",
             "pctClass": "val-top",
@@ -16914,7 +16914,7 @@
             "isExp": true,
             "rawValue": 2500
         },
-        "Chroma Snowcannon": {
+        "Snowcannon": {
             "value": "7,750",
             "range": "[N\/A]",
             "pctClass": "val-top",
@@ -16934,7 +16934,7 @@
             "isExp": true,
             "rawValue": 7750
         },
-        "Chroma Snowstorm": {
+        "Snowstorm": {
             "value": "4,250",
             "range": "[N\/A]",
             "pctClass": "val-top",
@@ -16954,7 +16954,7 @@
             "isExp": true,
             "rawValue": 4250
         },
-        "Chroma Sunrise": {
+        "Sunrise": {
             "value": "13,250",
             "range": "[N\/A]",
             "pctClass": "val-top",
@@ -16974,7 +16974,7 @@
             "isExp": true,
             "rawValue": 13250
         },
-        "Chroma Sunset": {
+        "Sunset": {
             "value": "9,000",
             "range": "[N\/A]",
             "pctClass": "val-top",
@@ -16994,7 +16994,7 @@
             "isExp": true,
             "rawValue": 9000
         },
-        "Chroma Sweet": {
+        "Sweet": {
             "value": "2,000",
             "range": "[N\/A]",
             "pctClass": "val-top",
@@ -17014,7 +17014,7 @@
             "isExp": true,
             "rawValue": 2000
         },
-        "Chroma Swirly Gun": {
+        "Swirly Gun": {
             "value": "38",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -17034,7 +17034,7 @@
             "isExp": true,
             "rawValue": 38
         },
-        "Chroma Tides": {
+        "Tides": {
             "value": "27",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -17054,7 +17054,7 @@
             "isExp": true,
             "rawValue": 27
         },
-        "Chroma Traveler\u0027s Gun": {
+        "Traveler\u0027s Gun": {
             "value": "220,000",
             "range": "[N\/A]",
             "pctClass": "val-top",
@@ -17074,7 +17074,7 @@
             "isExp": true,
             "rawValue": 220000
         },
-        "Chroma Treat": {
+        "Treat": {
             "value": "2,150",
             "range": "2,100 - 2,150",
             "pctClass": "val-top",
@@ -17094,7 +17094,7 @@
             "isExp": true,
             "rawValue": 2150
         },
-        "Chroma Vampire\u0027s Gun": {
+        "Vampire\u0027s Gun": {
             "value": "29,000",
             "range": "[N\/A]",
             "pctClass": "val-top",
@@ -17114,7 +17114,7 @@
             "isExp": true,
             "rawValue": 29000
         },
-        "Chroma Watergun": {
+        "Watergun": {
             "value": "3,400",
             "range": "[N\/A]",
             "pctClass": "val-top",
