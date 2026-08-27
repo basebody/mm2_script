@@ -1,24 +1,24 @@
 {
     "Godlys": {
         "Alienbeam": {
-            "value": "2,600",
-            "range": "2,600 - 2,700",
+            "value": "2,650",
+            "range": "[N\/A]",
             "pctClass": "val-top",
             "pct": 0.94431554524361949187749587508733384311199188232421875,
-            "stability": "Doing Well",
+            "stability": "Stable",
             "demand": "6",
             "rarity": "4",
             "origin": "Halloween 2025 (Unboxed)",
-            "diff": "+100",
-            "pctChange": "+4.0%",
+            "diff": "+50",
+            "pctChange": "+1.9%",
             "aliases": "AB, ALB",
-            "flippability": "Flippable",
-            "riseChance": "35",
+            "flippability": "Rarely Flippable",
+            "riseChance": "10",
             "wikiLink": "Alienbeam",
             "imageKey": "mm2godlies\/Alienbeam",
             "class": "",
             "isExp": true,
-            "rawValue": 2600
+            "rawValue": 2650
         },
         "Amerilaser": {
             "value": "22",
@@ -161,16 +161,16 @@
             "rawValue": 825
         },
         "Beachy": {
-            "value": "110",
-            "range": "100 - 110",
+            "value": "105",
+            "range": "95 - 105",
             "pctClass": "val-mid",
-            "pct": 0.80742459396751742328746104249148629605770111083984375,
+            "pct": 0.80510440835266816606008433154784142971038818359375,
             "stability": "Underpaid For",
             "demand": "2",
             "rarity": "3",
             "origin": "Summer 2026 (Item Pack)",
-            "diff": "-10",
-            "pctChange": "-8.3%",
+            "diff": "-5",
+            "pctChange": "-4.5%",
             "aliases": "N\/A",
             "flippability": "Rarely Flippable",
             "riseChance": "0",
@@ -178,7 +178,7 @@
             "imageKey": "mm2godlies\/Beachy",
             "class": "",
             "isExp": true,
-            "rawValue": 110
+            "rawValue": 105
         },
         "Bioblade": {
             "value": "8",
@@ -741,24 +741,24 @@
             "rawValue": 13
         },
         "Evergreen": {
-            "value": "2,650",
-            "range": "2,650 - 2,700",
+            "value": "2,700",
+            "range": "2,700 - 2,800",
             "pctClass": "val-top",
-            "pct": 0.94663573085846863808257012351532466709613800048828125,
-            "stability": "Doing Well",
+            "pct": 0.948955916473317895309946834458969533443450927734375,
+            "stability": "Overpaid For",
             "demand": "6",
             "rarity": "4",
             "origin": "Christmas 2023 (Unboxed)",
             "diff": "+50",
             "pctChange": "+1.9%",
             "aliases": "EGreen",
-            "flippability": "Flippable",
-            "riseChance": "40",
+            "flippability": "Highly Flippable",
+            "riseChance": "65",
             "wikiLink": "Evergreen",
             "imageKey": "mm2godlies\/Evergreen",
             "class": "",
             "isExp": true,
-            "rawValue": 2650
+            "rawValue": 2700
         },
         "Evergun": {
             "value": "3,450",
@@ -1144,7 +1144,7 @@
             "value": "65",
             "range": "[N\/A]",
             "pctClass": "val-mid",
-            "pct": 0.777262180974477967509983500349335372447967529296875,
+            "pct": 0.7795823665893271137150577487773261964321136474609375,
             "stability": "Stable",
             "demand": "1",
             "rarity": "2",
@@ -1261,24 +1261,24 @@
             "rawValue": 33
         },
         "Icecream": {
-            "value": "105",
-            "range": "85 - 105",
+            "value": "120",
+            "range": "115 - 125",
             "pctClass": "val-mid",
-            "pct": 0.8027842227378190198550100831198506057262420654296875,
-            "stability": "Underpaid For",
+            "pct": 0.8143851508120649729249862502911128103733062744140625,
+            "stability": "Fluctuating",
             "demand": "2",
             "rarity": "3",
             "origin": "Summer 2026 (Unboxed)",
-            "diff": "-5",
-            "pctChange": "-4.5%",
+            "diff": "+15",
+            "pctChange": "+14.3%",
             "aliases": "IC",
-            "flippability": "Rarely Flippable",
-            "riseChance": "0",
+            "flippability": "Flippable",
+            "riseChance": "15",
             "wikiLink": "Icecream",
             "imageKey": "mm2godlies\/Icecream",
             "class": "",
             "isExp": true,
-            "rawValue": 105
+            "rawValue": 120
         },
         "Iceflake": {
             "value": "15",
@@ -1361,16 +1361,16 @@
             "rawValue": 33
         },
         "Luger": {
-            "value": "30",
-            "range": "27 - 30",
+            "value": "28",
+            "range": "25 - 28",
             "pctClass": "val-mid",
-            "pct": 0.668213457076566097470049498951993882656097412109375,
+            "pct": 0.6542923433874709981949990833527408540248870849609375,
             "stability": "Underpaid For",
             "demand": "1",
             "rarity": "2",
             "origin": "Gun Box #1",
             "diff": "-2",
-            "pctChange": "-6.3%",
+            "pctChange": "-6.7%",
             "aliases": "Lug",
             "flippability": "Rarely Flippable",
             "riseChance": "0",
@@ -1378,7 +1378,7 @@
             "imageKey": "mm2godlies\/Luger",
             "class": "",
             "isExp": true,
-            "rawValue": 30
+            "rawValue": 28
         },
         "Lugercane": {
             "value": "13",
@@ -1561,16 +1561,16 @@
             "rawValue": 2
         },
         "Ornament": {
-            "value": "50",
-            "range": "50 - 60",
+            "value": "60",
+            "range": "60 - 70",
             "pctClass": "val-mid",
-            "pct": 0.754060324825986061370031166006810963153839111328125,
+            "pct": 0.77030162412993041787245829254970885813236236572265625,
             "stability": "Doing Well",
             "demand": "2",
             "rarity": "2",
             "origin": "Christmas 2025 (Gifting 100 Gifts)",
             "diff": "+10",
-            "pctChange": "+25.0%",
+            "pctChange": "+20.0%",
             "aliases": "Orn",
             "flippability": "Flippable",
             "riseChance": "25",
@@ -1578,7 +1578,7 @@
             "imageKey": "mm2godlies\/Ornament",
             "class": "",
             "isExp": true,
-            "rawValue": 50
+            "rawValue": 60
         },
         "Pearl": {
             "value": "80",
@@ -1821,24 +1821,24 @@
             "rawValue": 420
         },
         "Raygun": {
-            "value": "2,100",
-            "range": "2,100 - 2,150",
+            "value": "2,150",
+            "range": "[N\/A]",
             "pctClass": "val-top",
-            "pct": 0.93271461716937353880751970791607163846492767333984375,
-            "stability": "Doing Well",
+            "pct": 0.93503480278422268501259395634406246244907379150390625,
+            "stability": "Stable",
             "demand": "6",
             "rarity": "3",
             "origin": "Halloween 2025 (Tier 25)",
-            "diff": "+100",
-            "pctChange": "+5.0%",
+            "diff": "+50",
+            "pctChange": "+2.4%",
             "aliases": "RG, Ray",
-            "flippability": "Flippable",
-            "riseChance": "30",
+            "flippability": "Rarely Flippable",
+            "riseChance": "10",
             "wikiLink": "Raygun",
             "imageKey": "mm2godlies\/Raygun",
             "class": "",
             "isExp": true,
-            "rawValue": 2100
+            "rawValue": 2150
         },
         "Red Luger": {
             "value": "37",
@@ -1901,16 +1901,16 @@
             "rawValue": 1360
         },
         "Sands": {
-            "value": "110",
-            "range": "100 - 110",
+            "value": "105",
+            "range": "95 - 105",
             "pctClass": "val-mid",
-            "pct": 0.80742459396751742328746104249148629605770111083984375,
+            "pct": 0.80510440835266816606008433154784142971038818359375,
             "stability": "Underpaid For",
             "demand": "2",
             "rarity": "3",
             "origin": "Summer 2026 (Item Pack)",
-            "diff": "-10",
-            "pctChange": "-8.3%",
+            "diff": "-5",
+            "pctChange": "-4.5%",
             "aliases": "N\/A",
             "flippability": "Rarely Flippable",
             "riseChance": "0",
@@ -1918,7 +1918,7 @@
             "imageKey": "mm2godlies\/Sands",
             "class": "",
             "isExp": true,
-            "rawValue": 110
+            "rawValue": 105
         },
         "Saw": {
             "value": "7",
@@ -2001,16 +2001,16 @@
             "rawValue": 15
         },
         "Snow Dagger": {
-            "value": "240",
-            "range": "230 - 240",
+            "value": "230",
+            "range": "220 - 230",
             "pctClass": "val-mid",
-            "pct": 0.8491879350348028321349147518048994243144989013671875,
+            "pct": 0.84686774941995357490753804086125455796718597412109375,
             "stability": "Underpaid For",
             "demand": "3",
             "rarity": "3",
             "origin": "Christmas 2025 (Unboxed)",
-            "diff": "-5",
-            "pctChange": "-2.0%",
+            "diff": "-10",
+            "pctChange": "-4.2%",
             "aliases": "Dagger",
             "flippability": "Rarely Flippable",
             "riseChance": "0",
@@ -2018,7 +2018,7 @@
             "imageKey": "mm2godlies\/Snow_Dagger",
             "class": "",
             "isExp": true,
-            "rawValue": 240
+            "rawValue": 230
         },
         "Snowcannon": {
             "value": "850",
@@ -2181,44 +2181,44 @@
             "rawValue": 32
         },
         "Sunrise": {
-            "value": "1,150",
-            "range": "1,150 - 1,175",
+            "value": "1,200",
+            "range": "1,200 - 1,250",
             "pctClass": "val-top",
             "pct": 0.90487238979118334025741887671756558120250701904296875,
-            "stability": "Doing Well",
+            "stability": "Overpaid For",
             "demand": "6",
             "rarity": "4",
             "origin": "Summer 2025 (Unboxed)",
-            "diff": "+25",
-            "pctChange": "+2.2%",
+            "diff": "+50",
+            "pctChange": "+4.3%",
             "aliases": "SR",
-            "flippability": "Flippable",
-            "riseChance": "40",
+            "flippability": "Highly Flippable",
+            "riseChance": "70",
             "wikiLink": "Sunrise",
             "imageKey": "mm2godlies\/Sunrise",
             "class": "",
             "isExp": true,
-            "rawValue": 1150
+            "rawValue": 1200
         },
         "Sunset": {
-            "value": "650",
-            "range": "650 - 675",
+            "value": "700",
+            "range": "700 - 750",
             "pctClass": "val-top",
             "pct": 0.89559164733178653339251695797429420053958892822265625,
-            "stability": "Doing Well",
-            "demand": "5",
+            "stability": "Overpaid For",
+            "demand": "6",
             "rarity": "3",
             "origin": "Summer 2025 (Tier 25)",
-            "diff": "+25",
-            "pctChange": "+4.0%",
+            "diff": "+50",
+            "pctChange": "+7.7%",
             "aliases": "N\/A",
-            "flippability": "Flippable",
-            "riseChance": "40",
+            "flippability": "Highly Flippable",
+            "riseChance": "65",
             "wikiLink": "Sunset_(Knife)",
             "imageKey": "mm2godlies\/Sunset",
             "class": "",
             "isExp": true,
-            "rawValue": 650
+            "rawValue": 700
         },
         "Sweet": {
             "value": "150",
@@ -2341,10 +2341,10 @@
             "rawValue": 155
         },
         "Turkey": {
-            "value": "2,450",
+            "value": "2,425",
             "range": "[N\/A]",
             "pctClass": "val-top",
-            "pct": 0.9396751740139210884450449157156981527805328369140625,
+            "pct": 0.93735498839907194223997066728770732879638671875,
             "stability": "Stable",
             "demand": "5",
             "rarity": "4",
@@ -2358,7 +2358,7 @@
             "imageKey": "mm2godlies\/Turkey",
             "class": "",
             "isExp": true,
-            "rawValue": 2450
+            "rawValue": 2425
         },
         "Vampire\u0027s Edge": {
             "value": "15",
@@ -2384,7 +2384,7 @@
             "value": "1,950",
             "range": "[N\/A]",
             "pctClass": "val-top",
-            "pct": 0.9280742459396751353750687485444359481334686279296875,
+            "pct": 0.93039443155452439260244545948808081448078155517578125,
             "stability": "Stable",
             "demand": "5",
             "rarity": "4",
@@ -2421,16 +2421,16 @@
             "rawValue": 13
         },
         "Watergun": {
-            "value": "240",
-            "range": "230 - 240",
+            "value": "230",
+            "range": "220 - 230",
             "pctClass": "val-mid",
-            "pct": 0.8491879350348028321349147518048994243144989013671875,
+            "pct": 0.84686774941995357490753804086125455796718597412109375,
             "stability": "Underpaid For",
             "demand": "3",
             "rarity": "3",
             "origin": "Summer 2024 (Unboxed)",
-            "diff": "-5",
-            "pctChange": "-2.0%",
+            "diff": "-10",
+            "pctChange": "-4.2%",
             "aliases": "WTG",
             "flippability": "Rarely Flippable",
             "riseChance": "0",
@@ -2438,7 +2438,7 @@
             "imageKey": "mm2godlies\/Watergun",
             "class": "",
             "isExp": true,
-            "rawValue": 240
+            "rawValue": 230
         },
         "Waves": {
             "value": "280",
@@ -2481,44 +2481,44 @@
             "rawValue": 5
         },
         "Xenoknife": {
-            "value": "310",
-            "range": "310 - 325",
+            "value": "325",
+            "range": "325 - 350",
             "pctClass": "val-top",
             "pct": 0.87006960556844548104749037520377896726131439208984375,
-            "stability": "Doing Well",
+            "stability": "Overpaid For",
             "demand": "5",
             "rarity": "3",
             "origin": "Halloween 2025 (Item Pack)",
-            "diff": "+10",
-            "pctChange": "+3.3%",
+            "diff": "+15",
+            "pctChange": "+4.8%",
             "aliases": "N\/A",
-            "flippability": "Flippable",
-            "riseChance": "40",
+            "flippability": "Highly Flippable",
+            "riseChance": "65",
             "wikiLink": "Xenoknife",
             "imageKey": "mm2godlies\/Xenoknife",
             "class": "",
             "isExp": true,
-            "rawValue": 310
+            "rawValue": 325
         },
         "Xenoshot": {
-            "value": "310",
-            "range": "310 - 325",
+            "value": "325",
+            "range": "325 - 350",
             "pctClass": "val-top",
             "pct": 0.87006960556844548104749037520377896726131439208984375,
-            "stability": "Doing Well",
+            "stability": "Overpaid For",
             "demand": "5",
             "rarity": "3",
             "origin": "Halloween 2025 (Item Pack)",
-            "diff": "+10",
-            "pctChange": "+3.3%",
+            "diff": "+15",
+            "pctChange": "+4.8%",
             "aliases": "N\/A",
-            "flippability": "Flippable",
-            "riseChance": "40",
+            "flippability": "Highly Flippable",
+            "riseChance": "65",
             "wikiLink": "Xenoshot",
             "imageKey": "mm2godlies\/Xenoshot",
             "class": "",
             "isExp": true,
-            "rawValue": 310
+            "rawValue": 325
         },
         "Xmas": {
             "value": "7",
@@ -2686,7 +2686,7 @@
             "value": "65",
             "range": "[N\/A]",
             "pctClass": "val-mid",
-            "pct": 0.777262180974477967509983500349335372447967529296875,
+            "pct": 0.7795823665893271137150577487773261964321136474609375,
             "stability": "Stable",
             "demand": "1",
             "rarity": "2",
@@ -2803,24 +2803,24 @@
             "rawValue": 8100
         },
         "Vampire\u0027s Axe": {
-            "value": "1,500",
-            "range": "1,500 - 1,600",
+            "value": "1,550",
+            "range": "1,550 - 1,600",
             "pctClass": "val-top",
             "pct": 0.91879350348027843953246929231681860983371734619140625,
-            "stability": "Overpaid For",
+            "stability": "Doing Well",
             "demand": "6",
             "rarity": "4",
             "origin": "Halloween 2024 (Tier 20)",
             "diff": "+50",
-            "pctChange": "+3.4%",
+            "pctChange": "+3.3%",
             "aliases": "Vamp Axe, VA",
-            "flippability": "Highly Flippable",
-            "riseChance": "60",
+            "flippability": "Flippable",
+            "riseChance": "35",
             "wikiLink": "Vampire%27s_Axe",
             "imageKey": "mm2ancients\/Vampires_Axe",
             "class": "",
             "isExp": true,
-            "rawValue": 1500
+            "rawValue": 1550
         }
     },
     "Vintages": {
@@ -7050,7 +7050,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Adurite ": {
+        "Adurite (Gun)": {
             "value": "x4 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -7150,7 +7150,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Bluesteel ": {
+        "Bluesteel (Gun)": {
             "value": "x4 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -7191,7 +7191,7 @@
             "rawValue": null
         },
         "Bones": {
-            "value": "215",
+            "value": "210",
             "range": "[N\/A]",
             "pctClass": "val-mid",
             "pct": 0.839907192575406025270012833061628043651580810546875,
@@ -7208,7 +7208,7 @@
             "imageKey": "mm2uncommons\/Bones_Gun",
             "class": "",
             "isExp": true,
-            "rawValue": 215
+            "rawValue": 210
         },
         "Bones (Knife)": {
             "value": "x2 T1 Uncommons",
@@ -7274,7 +7274,7 @@
             "value": "50",
             "range": "[N\/A]",
             "pctClass": "val-mid",
-            "pct": 0.754060324825986061370031166006810963153839111328125,
+            "pct": 0.7517401392111369151649569175788201391696929931640625,
             "stability": "Stable",
             "demand": "3",
             "rarity": "4",
@@ -7310,7 +7310,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Camo ": {
+        "Camo (Gun)": {
             "value": "x4 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -7350,7 +7350,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Canes ": {
+        "Canes (Gun)": {
             "value": "x1 T1 Rare",
             "range": "",
             "pctClass": "val-sub1",
@@ -7410,7 +7410,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Carrot ": {
+        "Carrot (Gun)": {
             "value": "x3 T1 Uncommons",
             "range": "",
             "pctClass": "val-sub1",
@@ -7550,7 +7550,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Clown ": {
+        "Clown (Gun)": {
             "value": "x3 T1 Uncommons",
             "range": "",
             "pctClass": "val-sub1",
@@ -7570,7 +7570,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Cookie ": {
+        "Cookie (Gun)": {
             "value": "x1 T1 Rare",
             "range": "",
             "pctClass": "val-sub1",
@@ -7830,7 +7830,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Frozen ": {
+        "Frozen (Gun)": {
             "value": "3",
             "range": "[N\/A]",
             "pctClass": "val-low",
@@ -7844,7 +7844,7 @@
             "aliases": "N\/A",
             "flippability": "Rarely Flippable",
             "riseChance": "5",
-            "wikiLink": "Frozen_",
+            "wikiLink": "Frozen_(Gun)",
             "imageKey": "mm2uncommons\/Frozen_Gun",
             "class": "",
             "isExp": true,
@@ -7950,7 +7950,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Gingerbread  [XMAS2019]": {
+        "Gingerbread (Gun) [XMAS2019]": {
             "value": "1",
             "range": "[N\/A]",
             "pctClass": "val-low",
@@ -7970,7 +7970,7 @@
             "isExp": true,
             "rawValue": 1
         },
-        "Gingerbread  [XMAS2020]": {
+        "Gingerbread (Gun) [XMAS2020]": {
             "value": "3",
             "range": "[N\/A]",
             "pctClass": "val-low",
@@ -7990,7 +7990,7 @@
             "isExp": true,
             "rawValue": 3
         },
-        "Gingerbread  [XMAS2021]": {
+        "Gingerbread (Gun) [XMAS2021]": {
             "value": "x3 T1 Uncommons",
             "range": "",
             "pctClass": "val-sub1",
@@ -8010,7 +8010,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Gingerbread  [XMAS2025]": {
+        "Gingerbread (Gun) [XMAS2025]": {
             "value": "x3 T1 Uncommons",
             "range": "",
             "pctClass": "val-sub1",
@@ -8130,7 +8130,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Gothic ": {
+        "Gothic (Gun)": {
             "value": "7",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -8144,7 +8144,7 @@
             "aliases": "N\/A",
             "flippability": "Rarely Flippable",
             "riseChance": "10",
-            "wikiLink": "Gothic_",
+            "wikiLink": "Gothic_(Gun)",
             "imageKey": "mm2uncommons\/Gothic_Gun",
             "class": "",
             "isExp": true,
@@ -8190,7 +8190,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Hazard ": {
+        "Hazard (Gun)": {
             "value": "5",
             "range": "[N\/A]",
             "pctClass": "val-low",
@@ -8204,7 +8204,7 @@
             "aliases": "N\/A",
             "flippability": "Rarely Flippable",
             "riseChance": "10",
-            "wikiLink": "Hazard_",
+            "wikiLink": "Hazard_(Gun)",
             "imageKey": "mm2uncommons\/Hazard_Gun",
             "class": "",
             "isExp": true,
@@ -8290,7 +8290,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Holly ": {
+        "Holly (Gun)": {
             "value": "1",
             "range": "[N\/A]",
             "pctClass": "val-low",
@@ -8390,7 +8390,7 @@
             "isExp": true,
             "rawValue": 3
         },
-        "Lava ": {
+        "Lava (Gun)": {
             "value": "x2 T1 Uncommons",
             "range": "",
             "pctClass": "val-sub1",
@@ -8450,7 +8450,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Lights ": {
+        "Lights (Gun)": {
             "value": "2",
             "range": "[N\/A]",
             "pctClass": "val-low",
@@ -8464,7 +8464,7 @@
             "aliases": "N\/A",
             "flippability": "Rarely Flippable",
             "riseChance": "5",
-            "wikiLink": "Lights_",
+            "wikiLink": "Lights_(Gun)",
             "imageKey": "mm2uncommons\/Lights_Gun",
             "class": "",
             "isExp": true,
@@ -8490,7 +8490,7 @@
             "isExp": true,
             "rawValue": 1
         },
-        "Love ": {
+        "Love (Gun)": {
             "value": "x2 T1 Rares",
             "range": "",
             "pctClass": "val-sub1",
@@ -8670,7 +8670,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Mistletoe ": {
+        "Mistletoe (Gun)": {
             "value": "x3 T1 Rares",
             "range": "",
             "pctClass": "val-sub1",
@@ -8744,7 +8744,7 @@
             "aliases": "N\/A",
             "flippability": "Rarely Flippable",
             "riseChance": "10",
-            "wikiLink": "Moonlight_",
+            "wikiLink": "Moonlight_(Gun)",
             "imageKey": "mm2uncommons\/Moonlight",
             "class": "",
             "isExp": true,
@@ -8810,7 +8810,7 @@
             "isExp": true,
             "rawValue": 20
         },
-        "Mummy  [HALLOWS2018]": {
+        "Mummy (Gun) [HALLOWS2018]": {
             "value": "2",
             "range": "[N\/A]",
             "pctClass": "val-low",
@@ -8830,7 +8830,7 @@
             "isExp": true,
             "rawValue": 2
         },
-        "Mummy  [HALLOWS2020]": {
+        "Mummy (Gun) [HALLOWS2020]": {
             "value": "x3 T1 Uncommons",
             "range": "",
             "pctClass": "val-sub1",
@@ -8970,7 +8970,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Painted ": {
+        "Painted (Gun)": {
             "value": "x3 T1 Uncommons",
             "range": "",
             "pctClass": "val-sub1",
@@ -9150,7 +9150,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Popsicle ": {
+        "Popsicle (Gun)": {
             "value": "x2 T1 Uncommons",
             "range": "",
             "pctClass": "val-sub1",
@@ -9170,7 +9170,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Portal ": {
+        "Portal (Gun)": {
             "value": "x2 T1 Uncommons",
             "range": "",
             "pctClass": "val-sub1",
@@ -9210,7 +9210,7 @@
             "isExp": true,
             "rawValue": 3
         },
-        "Potion ": {
+        "Potion (Gun)": {
             "value": "2",
             "range": "[N\/A]",
             "pctClass": "val-low",
@@ -9430,7 +9430,7 @@
             "isExp": true,
             "rawValue": 15
         },
-        "Snowflake  [XMAS2018]": {
+        "Snowflake (Gun) [XMAS2018]": {
             "value": "x1 T1 Rare",
             "range": "",
             "pctClass": "val-sub1",
@@ -9450,7 +9450,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Snowflake  [XMAS2022]": {
+        "Snowflake (Gun) [XMAS2022]": {
             "value": "x3 T1 Uncommons",
             "range": "",
             "pctClass": "val-sub1",
@@ -9474,7 +9474,7 @@
             "value": "55",
             "range": "[N\/A]",
             "pctClass": "val-mid",
-            "pct": 0.7633410672853828682349330847500823438167572021484375,
+            "pct": 0.76102088167053361100755637380643747746944427490234375,
             "stability": "Stable",
             "demand": "3",
             "rarity": "4",
@@ -9550,7 +9550,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Snowman  [XMAS2015]": {
+        "Snowman (Gun) [XMAS2015]": {
             "value": "x4 T1 Legendaries",
             "range": "",
             "pctClass": "val-sub1",
@@ -9570,7 +9570,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Snowman  [XMAS2021]": {
+        "Snowman (Gun) [XMAS2021]": {
             "value": "5",
             "range": "[N\/A]",
             "pctClass": "val-low",
@@ -9670,7 +9670,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Soda ": {
+        "Soda (Gun)": {
             "value": "x3 T1 Uncommons",
             "range": "",
             "pctClass": "val-sub1",
@@ -9750,7 +9750,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Stars ": {
+        "Stars (Gun)": {
             "value": "x3 T1 Uncommons",
             "range": "",
             "pctClass": "val-sub1",
@@ -9790,7 +9790,7 @@
             "isExp": true,
             "rawValue": 2
         },
-        "Steel ": {
+        "Steel (Gun)": {
             "value": "8",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -9804,7 +9804,7 @@
             "aliases": "N\/A",
             "flippability": "Rarely Flippable",
             "riseChance": "15",
-            "wikiLink": "Steel_",
+            "wikiLink": "Steel_(Gun)",
             "imageKey": "mm2uncommons\/Steel_Gun",
             "class": "",
             "isExp": true,
@@ -9830,7 +9830,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Stockings ": {
+        "Stockings (Gun)": {
             "value": "x3 T1 Uncommons",
             "range": "",
             "pctClass": "val-sub1",
@@ -9890,7 +9890,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Sweater  [XMAS2018]": {
+        "Sweater (Gun) [XMAS2018]": {
             "value": "x3 T1 Uncommons",
             "range": "",
             "pctClass": "val-sub1",
@@ -9910,7 +9910,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Sweater  [XMAS2025]": {
+        "Sweater (Gun) [XMAS2025]": {
             "value": "x2 T1 Uncommons",
             "range": "",
             "pctClass": "val-sub1",
@@ -9990,7 +9990,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Treats ": {
+        "Treats (Gun)": {
             "value": "x3 T1 Uncommons",
             "range": "",
             "pctClass": "val-sub1",
@@ -10270,7 +10270,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Wraiths ": {
+        "Wraiths (Gun)": {
             "value": "x3 T1 Uncommons",
             "range": "",
             "pctClass": "val-sub1",
@@ -10310,7 +10310,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Wrap ": {
+        "Wrap (Gun)": {
             "value": "12",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -10324,7 +10324,7 @@
             "aliases": "N\/A",
             "flippability": "Rarely Flippable",
             "riseChance": "10",
-            "wikiLink": "Wrap_",
+            "wikiLink": "Wrap_(Gun)",
             "imageKey": "mm2uncommons\/Wrap_Gun",
             "class": "",
             "isExp": true,
@@ -10350,7 +10350,7 @@
             "isExp": true,
             "rawValue": 12
         },
-        "Wrapped  [XMAS2015]": {
+        "Wrapped (Gun) [XMAS2015]": {
             "value": "x4 T1 Legendaries",
             "range": "",
             "pctClass": "val-sub1",
@@ -10370,7 +10370,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Wrapped  [XMAS2024]": {
+        "Wrapped (Gun) [XMAS2024]": {
             "value": "x1 T1 Rare",
             "range": "",
             "pctClass": "val-sub1",
@@ -10490,7 +10490,7 @@
             "isExp": true,
             "rawValue": 3
         },
-        "Zombie ": {
+        "Zombie (Gun)": {
             "value": "5",
             "range": "[N\/A]",
             "pctClass": "val-low",
@@ -10530,7 +10530,7 @@
             "isExp": true,
             "rawValue": 1
         },
-        "Zombified ": {
+        "Zombified (Gun)": {
             "value": "15",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -10544,7 +10544,7 @@
             "aliases": "N\/A",
             "flippability": "Rarely Flippable",
             "riseChance": "10",
-            "wikiLink": "Zombified_",
+            "wikiLink": "Zombified_(Gun)",
             "imageKey": "mm2uncommons\/Zombified_Gun",
             "class": "",
             "isExp": true,
@@ -10652,7 +10652,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Apocalypse ": {
+        "Apocalypse (Gun)": {
             "value": "3",
             "range": "[N\/A]",
             "pctClass": "val-low",
@@ -10666,7 +10666,7 @@
             "aliases": "N\/A",
             "flippability": "Rarely Flippable",
             "riseChance": "10",
-            "wikiLink": "Apocalypse_",
+            "wikiLink": "Apocalypse_(Gun)",
             "imageKey": "mm2commons\/Apocalypse_Gun",
             "class": "",
             "isExp": true,
@@ -10772,7 +10772,7 @@
             "isExp": true,
             "rawValue": 3
         },
-        "Bats  [HALLOWS2018]": {
+        "Bats (Gun) [HALLOWS2018]": {
             "value": "1",
             "range": "[N\/A]",
             "pctClass": "val-low",
@@ -10792,7 +10792,7 @@
             "isExp": true,
             "rawValue": 1
         },
-        "Bats  [HALLOWS2024]": {
+        "Bats (Gun) [HALLOWS2024]": {
             "value": "x3 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -10816,7 +10816,7 @@
             "value": "240",
             "range": "[N\/A]",
             "pctClass": "val-mid",
-            "pct": 0.84454756380510442870246379243326373398303985595703125,
+            "pct": 0.8491879350348028321349147518048994243144989013671875,
             "stability": "Stable",
             "demand": "3",
             "rarity": "5",
@@ -11052,7 +11052,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Candied ": {
+        "Candied (Gun)": {
             "value": "x3 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -11152,7 +11152,7 @@
             "isExp": true,
             "rawValue": 12
         },
-        "Candy Corn  [HALLOWS2020]": {
+        "Candy Corn (Gun) [HALLOWS2020]": {
             "value": "x2 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -11172,7 +11172,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Candy Corn  [HALLOWS2022]": {
+        "Candy Corn (Gun) [HALLOWS2022]": {
             "value": "x3 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -11192,7 +11192,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Candy Corn  [HALLOWS2024]": {
+        "Candy Corn (Gun) [HALLOWS2024]": {
             "value": "x2 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -11212,7 +11212,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Candy Corn  [HALLOWS2025]": {
+        "Candy Corn (Gun) [HALLOWS2025]": {
             "value": "x3 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -11332,7 +11332,7 @@
             "isExp": true,
             "rawValue": 25
         },
-        "Cane ": {
+        "Cane (Gun)": {
             "value": "x2 T1 Rares",
             "range": "",
             "pctClass": "val-sub1",
@@ -11432,7 +11432,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Carved ": {
+        "Carved (Gun)": {
             "value": "x3 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -11612,7 +11612,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Clown ": {
+        "Clown (Gun)": {
             "value": "x1 T1 Common",
             "range": "",
             "pctClass": "val-sub1",
@@ -11652,7 +11652,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Clownfish ": {
+        "Clownfish (Gun)": {
             "value": "x2 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -11712,7 +11712,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Coal  [XMAS2018]": {
+        "Coal (Gun) [XMAS2018]": {
             "value": "x1 T1 Uncommon",
             "range": "",
             "pctClass": "val-sub1",
@@ -11732,7 +11732,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Coal  [XMAS2021]": {
+        "Coal (Gun) [XMAS2021]": {
             "value": "x3 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -11752,7 +11752,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Coal  [XMAS2022]": {
+        "Coal (Gun) [XMAS2022]": {
             "value": "x1 T1 Uncommon",
             "range": "",
             "pctClass": "val-sub1",
@@ -11952,7 +11952,7 @@
             "isExp": true,
             "rawValue": 4
         },
-        "Cracks ": {
+        "Cracks (Gun)": {
             "value": "x2 T1 Uncommons",
             "range": "",
             "pctClass": "val-sub1",
@@ -11992,7 +11992,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Darkness ": {
+        "Darkness (Gun)": {
             "value": "x3 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -12212,7 +12212,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Elf ": {
+        "Elf (Gun)": {
             "value": "x4 T1 Legendaries",
             "range": "",
             "pctClass": "val-sub1",
@@ -12372,7 +12372,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Fragile ": {
+        "Fragile (Gun)": {
             "value": "x2 T1 Uncommons",
             "range": "",
             "pctClass": "val-sub1",
@@ -12412,7 +12412,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Frosted ": {
+        "Frosted (Gun)": {
             "value": "x4 T1 Legendaries",
             "range": "",
             "pctClass": "val-sub1",
@@ -12436,7 +12436,7 @@
             "value": "30",
             "range": "[N\/A]",
             "pctClass": "val-mid",
-            "pct": 0.6658932714617169512649752505240030586719512939453125,
+            "pct": 0.668213457076566097470049498951993882656097412109375,
             "stability": "Stable",
             "demand": "2",
             "rarity": "4",
@@ -12452,7 +12452,7 @@
             "isExp": true,
             "rawValue": 30
         },
-        "Frozen ": {
+        "Frozen (Gun)": {
             "value": "x2 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -12553,16 +12553,16 @@
             "rawValue": 3
         },
         "Ghoulish": {
-            "value": "95",
+            "value": "90",
             "range": "[N\/A]",
             "pctClass": "val-mid",
-            "pct": 0.800464037122969873649935834691859781742095947265625,
+            "pct": 0.79814385150812061642255912374821491539478302001953125,
             "stability": "Stable",
             "demand": "3",
             "rarity": "4",
             "origin": "Halloween 2023 (Catalog Promo)",
             "diff": "-5",
-            "pctChange": "-5.0%",
+            "pctChange": "-5.3%",
             "aliases": "N\/A",
             "flippability": "Rarely Flippable",
             "riseChance": "10",
@@ -12570,9 +12570,9 @@
             "imageKey": "mm2commons\/Ghoulish",
             "class": "",
             "isExp": true,
-            "rawValue": 95
+            "rawValue": 90
         },
-        "Gift Bag ": {
+        "Gift Bag (Gun)": {
             "value": "x2 T1 Uncommons",
             "range": "",
             "pctClass": "val-sub1",
@@ -12632,7 +12632,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Gifts ": {
+        "Gifts (Gun)": {
             "value": "x2 T1 Legendaries",
             "range": "",
             "pctClass": "val-sub1",
@@ -12693,16 +12693,16 @@
             "rawValue": null
         },
         "Glitch1": {
-            "value": "70",
+            "value": "65",
             "range": "[N\/A]",
             "pctClass": "val-mid",
-            "pct": 0.78422273781902551714750870814896188676357269287109375,
+            "pct": 0.7795823665893271137150577487773261964321136474609375,
             "stability": "Stable",
-            "demand": "3",
+            "demand": "2",
             "rarity": "3",
             "origin": "Godly Batwing Deletion",
             "diff": "-5",
-            "pctChange": "-6.7%",
+            "pctChange": "-7.1%",
             "aliases": "G1",
             "flippability": "Rarely Flippable",
             "riseChance": "5",
@@ -12710,7 +12710,7 @@
             "imageKey": "mm2commons\/Glitch1",
             "class": "",
             "isExp": true,
-            "rawValue": 70
+            "rawValue": 65
         },
         "Glitch2": {
             "value": "35",
@@ -12752,7 +12752,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Grave ": {
+        "Grave (Gun)": {
             "value": "1",
             "range": "[N\/A]",
             "pctClass": "val-low",
@@ -12766,7 +12766,7 @@
             "aliases": "N\/A",
             "flippability": "Rarely Flippable",
             "riseChance": "5",
-            "wikiLink": "Grave_",
+            "wikiLink": "Grave_(Gun)",
             "imageKey": "mm2commons\/Grave_Gun",
             "class": "",
             "isExp": true,
@@ -12892,7 +12892,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Haunted ": {
+        "Haunted (Gun)": {
             "value": "1",
             "range": "[N\/A]",
             "pctClass": "val-low",
@@ -12906,7 +12906,7 @@
             "aliases": "N\/A",
             "flippability": "Rarely Flippable",
             "riseChance": "5",
-            "wikiLink": "Haunted_",
+            "wikiLink": "Haunted_(Gun)",
             "imageKey": "mm2commons\/Haunted_Gun",
             "class": "",
             "isExp": true,
@@ -13052,7 +13052,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Igloo ": {
+        "Igloo (Gun)": {
             "value": "x3 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -13132,7 +13132,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Infected ": {
+        "Infected (Gun)": {
             "value": "3",
             "range": "[N\/A]",
             "pctClass": "val-low",
@@ -13292,7 +13292,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Lights ": {
+        "Lights (Gun)": {
             "value": "x2 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -13612,7 +13612,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Ornament2 ": {
+        "Ornament2 (Gun)": {
             "value": "x4 T1 Legendaries",
             "range": "",
             "pctClass": "val-sub1",
@@ -13652,7 +13652,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Ornaments ": {
+        "Ornaments (Gun)": {
             "value": "x1 T1 Rare",
             "range": "",
             "pctClass": "val-sub1",
@@ -13772,7 +13772,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Peppermint ": {
+        "Peppermint (Gun)": {
             "value": "x2 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -13832,7 +13832,7 @@
             "isExp": true,
             "rawValue": 10
         },
-        "Pine ": {
+        "Pine (Gun)": {
             "value": "x3 T1 Rares",
             "range": "",
             "pctClass": "val-sub1",
@@ -14192,7 +14192,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Sandy ": {
+        "Sandy (Gun)": {
             "value": "x2 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -14272,7 +14272,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Santa ": {
+        "Santa (Gun)": {
             "value": "x4 T1 Legendaries",
             "range": "",
             "pctClass": "val-sub1",
@@ -14472,7 +14472,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Slime ": {
+        "Slime (Gun)": {
             "value": "1",
             "range": "[N\/A]",
             "pctClass": "val-low",
@@ -14486,7 +14486,7 @@
             "aliases": "N\/A",
             "flippability": "Rarely Flippable",
             "riseChance": "5",
-            "wikiLink": "Slime_",
+            "wikiLink": "Slime_(Gun)",
             "imageKey": "mm2commons\/Slime_Gun",
             "class": "",
             "isExp": true,
@@ -14532,7 +14532,7 @@
             "isExp": true,
             "rawValue": 20
         },
-        "Snowball ": {
+        "Snowball (Gun)": {
             "value": "x2 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -14592,11 +14592,11 @@
             "isExp": false,
             "rawValue": null
         },
-        "Snowflakes ": {
+        "Snowflakes (Gun)": {
             "value": "30",
             "range": "[N\/A]",
             "pctClass": "val-mid",
-            "pct": 0.6658932714617169512649752505240030586719512939453125,
+            "pct": 0.668213457076566097470049498951993882656097412109375,
             "stability": "Stable",
             "demand": "2",
             "rarity": "4",
@@ -14606,7 +14606,7 @@
             "aliases": "N\/A",
             "flippability": "Rarely Flippable",
             "riseChance": "15",
-            "wikiLink": "Snowflakes_",
+            "wikiLink": "Snowflakes_(Gun)",
             "imageKey": "mm2commons\/Snowflakes_Gun",
             "class": "",
             "isExp": true,
@@ -14632,7 +14632,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Snowman  [XMAS2018]": {
+        "Snowman (Gun) [XMAS2018]": {
             "value": "25",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -14652,7 +14652,7 @@
             "isExp": true,
             "rawValue": 25
         },
-        "Snowman  [XMAS2022]": {
+        "Snowman (Gun) [XMAS2022]": {
             "value": "x2 T1 Uncommons",
             "range": "",
             "pctClass": "val-sub1",
@@ -14896,7 +14896,7 @@
             "value": "30",
             "range": "[N\/A]",
             "pctClass": "val-mid",
-            "pct": 0.6658932714617169512649752505240030586719512939453125,
+            "pct": 0.668213457076566097470049498951993882656097412109375,
             "stability": "Stable",
             "demand": "2",
             "rarity": "3",
@@ -15012,7 +15012,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Starfish ": {
+        "Starfish (Gun)": {
             "value": "x2 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -15092,7 +15092,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Stickers  [HALLOWS2021]": {
+        "Stickers (Gun) [HALLOWS2021]": {
             "value": "x2 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -15112,7 +15112,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Stickers  [HALLOWS2024]": {
+        "Stickers (Gun) [HALLOWS2024]": {
             "value": "x2 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -15132,7 +15132,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Stickers  [SUMMER2023]": {
+        "Stickers (Gun) [SUMMER2023]": {
             "value": "x3 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -15152,7 +15152,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Stickers  [SUMMER2025]": {
+        "Stickers (Gun) [SUMMER2025]": {
             "value": "x2 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -15172,7 +15172,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Stickers  [XMAS2021]": {
+        "Stickers (Gun) [XMAS2021]": {
             "value": "x2 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -15192,7 +15192,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Stickers  [XMAS2022]": {
+        "Stickers (Gun) [XMAS2022]": {
             "value": "x2 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -15212,7 +15212,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Stickers  [XMAS2024]": {
+        "Stickers (Gun) [XMAS2024]": {
             "value": "x2 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -15232,7 +15232,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Stickers  [XMAS2025]": {
+        "Stickers (Gun) [XMAS2025]": {
             "value": "x2 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -15512,7 +15512,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Strawberries ": {
+        "Strawberries (Gun)": {
             "value": "x2 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -15552,7 +15552,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Striped ": {
+        "Striped (Gun)": {
             "value": "x2 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -15692,7 +15692,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Toy ": {
+        "Toy (Gun)": {
             "value": "x1 T1 Uncommon",
             "range": "",
             "pctClass": "val-sub1",
@@ -15772,7 +15772,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "UFOs ": {
+        "UFOs (Gun)": {
             "value": "x2 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -15832,7 +15832,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Vines ": {
+        "Vines (Gun)": {
             "value": "x2 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -15872,7 +15872,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Watcher ": {
+        "Watcher (Gun)": {
             "value": "x3 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -15912,7 +15912,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Wavy ": {
+        "Wavy (Gun)": {
             "value": "x3 T1 Commons",
             "range": "",
             "pctClass": "val-sub1",
@@ -15952,7 +15952,7 @@
             "isExp": false,
             "rawValue": null
         },
-        "Webbed ": {
+        "Webbed (Gun)": {
             "value": "25",
             "range": "[N\/A]",
             "pctClass": "val-mid",
@@ -15966,7 +15966,7 @@
             "aliases": "N\/A",
             "flippability": "Rarely Flippable",
             "riseChance": "15",
-            "wikiLink": "Webbed_",
+            "wikiLink": "Webbed_(Gun)",
             "imageKey": "mm2commons\/Webbed_Gun",
             "class": "",
             "isExp": true,
@@ -16072,11 +16072,11 @@
             "isExp": false,
             "rawValue": null
         },
-        "Wrapped": {
+        "Wrapped (Gun)": {
             "value": "30",
             "range": "[N\/A]",
             "pctClass": "val-mid",
-            "pct": 0.6658932714617169512649752505240030586719512939453125,
+            "pct": 0.668213457076566097470049498951993882656097412109375,
             "stability": "Stable",
             "demand": "2",
             "rarity": "4",
@@ -16216,18 +16216,18 @@
         },
         "Beachy": {
             "value": "1,250",
-            "range": "1,100 - 1,250",
+            "range": "1,200 - 1,300",
             "pctClass": "val-top",
-            "pct": 0.90951276102088163266756737357354722917079925537109375,
-            "stability": "Underpaid For",
+            "pct": 0.90719257540603248646249312514555640518665313720703125,
+            "stability": "Fluctuating",
             "demand": "5",
             "rarity": "4",
             "origin": "Summer 2026 (Item Pack)",
             "diff": "-150",
             "pctChange": "-10.7%",
             "aliases": "CBeachy, CBeach",
-            "flippability": "Rarely Flippable",
-            "riseChance": "0",
+            "flippability": "Flippable",
+            "riseChance": "10",
             "wikiLink": "Chroma_Beachy",
             "imageKey": "mm2chromas\/CBeachy",
             "class": "",
@@ -16235,16 +16235,16 @@
             "rawValue": 1250
         },
         "Blizzard": {
-            "value": "5,500",
-            "range": "5,000 - 5,500",
+            "value": "5,250",
+            "range": "4,750 - 5,250",
             "pctClass": "val-top",
             "pct": 0.96055684454756384837992300163023173809051513671875,
             "stability": "Underpaid For",
             "demand": "5",
             "rarity": "5",
             "origin": "Christmas 2025 (Item Pack)",
-            "diff": "-500",
-            "pctChange": "-8.3%",
+            "diff": "-250",
+            "pctChange": "-4.5%",
             "aliases": "CBlizz",
             "flippability": "Rarely Flippable",
             "riseChance": "0",
@@ -16252,7 +16252,7 @@
             "imageKey": "mm2chromas\/CBZ",
             "class": "",
             "isExp": true,
-            "rawValue": 5500
+            "rawValue": 5250
         },
         "Boneblade": {
             "value": "22",
@@ -16295,8 +16295,8 @@
             "rawValue": 40
         },
         "Constellation": {
-            "value": "29,000",
-            "range": "29,000 - 30,000",
+            "value": "30,000",
+            "range": "30,000 - 31,000",
             "pctClass": "val-top",
             "pct": 0.98375870069605564349757287345710210502147674560546875,
             "stability": "Doing Well",
@@ -16304,7 +16304,7 @@
             "rarity": "6",
             "origin": "Christmas 2024 (Unboxed)",
             "diff": "+1,000",
-            "pctChange": "+3.6%",
+            "pctChange": "+3.4%",
             "aliases": "CConst",
             "flippability": "Flippable",
             "riseChance": "45",
@@ -16312,7 +16312,7 @@
             "imageKey": "mm2chromas\/CConst",
             "class": "",
             "isExp": true,
-            "rawValue": 29000
+            "rawValue": 30000
         },
         "Cookiecane": {
             "value": "32",
@@ -16338,7 +16338,7 @@
             "value": "65",
             "range": "[N\/A]",
             "pctClass": "val-mid",
-            "pct": 0.777262180974477967509983500349335372447967529296875,
+            "pct": 0.7795823665893271137150577487773261964321136474609375,
             "stability": "Stable",
             "demand": "1",
             "rarity": "2",
@@ -16658,7 +16658,7 @@
             "value": "28",
             "range": "[N\/A]",
             "pctClass": "val-mid",
-            "pct": 0.651972157772621851989924834924750030040740966796875,
+            "pct": 0.6542923433874709981949990833527408540248870849609375,
             "stability": "Stable",
             "demand": "1",
             "rarity": "2",
@@ -16675,24 +16675,24 @@
             "rawValue": 28
         },
         "Icecream": {
-            "value": "1,250",
-            "range": "1,100 - 1,250",
+            "value": "1,350",
+            "range": "1,300 - 1,400",
             "pctClass": "val-top",
-            "pct": 0.90951276102088163266756737357354722917079925537109375,
-            "stability": "Underpaid For",
+            "pct": 0.9118329466357308898949440845171920955181121826171875,
+            "stability": "Fluctuating",
             "demand": "5",
             "rarity": "4",
             "origin": "Summer 2026 (Unboxed)",
-            "diff": "-200",
-            "pctChange": "-13.8%",
+            "diff": "+100",
+            "pctChange": "+8.0%",
             "aliases": "CIC, CCream, CIcecream",
-            "flippability": "Rarely Flippable",
-            "riseChance": "0",
+            "flippability": "Flippable",
+            "riseChance": "10",
             "wikiLink": "Chroma_Icecream",
             "imageKey": "mm2chromas\/CIcecream",
             "class": "",
             "isExp": true,
-            "rawValue": 1250
+            "rawValue": 1350
         },
         "Laser": {
             "value": "40",
@@ -16738,7 +16738,7 @@
             "value": "50",
             "range": "[N\/A]",
             "pctClass": "val-mid",
-            "pct": 0.754060324825986061370031166006810963153839111328125,
+            "pct": 0.7517401392111369151649569175788201391696929931640625,
             "stability": "Stable",
             "demand": "1",
             "rarity": "2",
@@ -16796,18 +16796,18 @@
         },
         "Sands": {
             "value": "1,300",
-            "range": "1,150 - 1,300",
+            "range": "1,250 - 1,350",
             "pctClass": "val-top",
-            "pct": 0.9118329466357308898949440845171920955181121826171875,
-            "stability": "Underpaid For",
+            "pct": 0.90951276102088163266756737357354722917079925537109375,
+            "stability": "Fluctuating",
             "demand": "5",
             "rarity": "4",
             "origin": "Summer 2026 (Item Pack)",
             "diff": "-150",
             "pctChange": "-10.3%",
             "aliases": "CSands, CSand",
-            "flippability": "Rarely Flippable",
-            "riseChance": "0",
+            "flippability": "Flippable",
+            "riseChance": "10",
             "wikiLink": "Chroma_Sands",
             "imageKey": "mm2chromas\/CSands",
             "class": "",
@@ -16838,7 +16838,7 @@
             "value": "28",
             "range": "[N\/A]",
             "pctClass": "val-mid",
-            "pct": 0.651972157772621851989924834924750030040740966796875,
+            "pct": 0.6542923433874709981949990833527408540248870849609375,
             "stability": "Stable",
             "demand": "1",
             "rarity": "2",
@@ -16955,7 +16955,7 @@
             "rawValue": 4250
         },
         "Sunrise": {
-            "value": "13,250",
+            "value": "13,000",
             "range": "[N\/A]",
             "pctClass": "val-top",
             "pct": 0.97215777262180969042759670628583990037441253662109375,
@@ -16963,8 +16963,8 @@
             "demand": "6",
             "rarity": "5",
             "origin": "Summer 2025 (Unboxed)",
-            "diff": "+250",
-            "pctChange": "+1.9%",
+            "diff": "-250",
+            "pctChange": "-1.9%",
             "aliases": "CSunrise, CSR",
             "flippability": "Rarely Flippable",
             "riseChance": "10",
@@ -16972,10 +16972,10 @@
             "imageKey": "mm2chromas\/CSR",
             "class": "",
             "isExp": true,
-            "rawValue": 13250
+            "rawValue": 13000
         },
         "Sunset": {
-            "value": "9,000",
+            "value": "8,750",
             "range": "[N\/A]",
             "pctClass": "val-top",
             "pct": 0.96983758700696054422252245785784907639026641845703125,
@@ -16984,7 +16984,7 @@
             "rarity": "5",
             "origin": "Summer 2025 (Tier 25)",
             "diff": "-250",
-            "pctChange": "-2.7%",
+            "pctChange": "-2.8%",
             "aliases": "CSunset, CSS",
             "flippability": "Rarely Flippable",
             "riseChance": "10",
@@ -16992,10 +16992,10 @@
             "imageKey": "mm2chromas\/CSS",
             "class": "",
             "isExp": true,
-            "rawValue": 9000
+            "rawValue": 8750
         },
         "Sweet": {
-            "value": "2,000",
+            "value": "1,950",
             "range": "[N\/A]",
             "pctClass": "val-top",
             "pct": 0.93039443155452439260244545948808081448078155517578125,
@@ -17004,7 +17004,7 @@
             "rarity": "4",
             "origin": "Valentine\u0027s 2026 (Item Pack)",
             "diff": "-50",
-            "pctChange": "-2.4%",
+            "pctChange": "-2.5%",
             "aliases": "CSweet",
             "flippability": "Rarely Flippable",
             "riseChance": "10",
@@ -17012,7 +17012,7 @@
             "imageKey": "mm2chromas\/CSweet",
             "class": "",
             "isExp": true,
-            "rawValue": 2000
+            "rawValue": 1950
         },
         "Swirly Gun": {
             "value": "38",
@@ -17075,10 +17075,10 @@
             "rawValue": 220000
         },
         "Treat": {
-            "value": "2,150",
-            "range": "2,100 - 2,150",
+            "value": "2,100",
+            "range": "2,050 - 2,100",
             "pctClass": "val-top",
-            "pct": 0.93503480278422268501259395634406246244907379150390625,
+            "pct": 0.93271461716937353880751970791607163846492767333984375,
             "stability": "Receding",
             "demand": "5",
             "rarity": "4",
@@ -17092,13 +17092,13 @@
             "imageKey": "mm2chromas\/CTreat",
             "class": "",
             "isExp": true,
-            "rawValue": 2150
+            "rawValue": 2100
         },
         "Vampire\u0027s Gun": {
             "value": "29,000",
             "range": "[N\/A]",
             "pctClass": "val-top",
-            "pct": 0.98375870069605564349757287345710210502147674560546875,
+            "pct": 0.98143851508120649729249862502911128103733062744140625,
             "stability": "Stable",
             "demand": "7",
             "rarity": "6",
